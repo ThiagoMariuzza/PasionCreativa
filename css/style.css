@@ -23,6 +23,13 @@ Author URI: http://www.designstub.com
 9. Media Queries
 ------------------*/
 
+@import url(animate.css);
+@import url(bootstrap.min.css);
+@import url(ionicons.min.css);
+@import url(owl.carousel.css);
+@import url(owl.theme.css);
+
+
 
 /*----- 1. Reset.css -----*/
 
