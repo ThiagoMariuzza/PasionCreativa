@@ -184,7 +184,7 @@ p {
 	-moz-transition: all 0.6s;
 	-o-transition: all 0.6s;
 	transition: all 0.6s;
-	-webkit-backface-visibility: hidden;
+	/*-webkit-backface-visibility: hidden;*/
 }
 
 .navbar-default {
