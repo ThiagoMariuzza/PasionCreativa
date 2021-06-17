@@ -387,7 +387,7 @@ p {
 }
 
 .hero-content {
-	padding: 100px 0 100px 0;
+	padding: 1rem 0 1rem 0;
 	overflow: hidden;
 }
 
@@ -854,7 +854,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .app .hero-content {
-	padding: 100px 0 0 0;
+	padding: 1rem 0 0 0;
 }
 
 .app img {
@@ -1948,7 +1948,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 		font-size: 54px;
 	}
 	.product .hero-content {
-		padding: 150px 0 100px 0;
+		padding: 1rem 0 1rem 0;
 		text-align: left;
 	}
 	.hero-content h1 {
