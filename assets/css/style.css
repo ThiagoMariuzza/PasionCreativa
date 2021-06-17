@@ -92,12 +92,12 @@ p {
 
 ::-moz-selection {
 	color: #FFFFFF;
-	background: #1eb858;
+	background: #f39b9e;
 }
 
 ::selection {
 	color: #FFFFFF;
-	background: #1eb858;
+	background: #f39b9e;
 }
 
 .nopadding {
@@ -313,7 +313,7 @@ p {
 	}
 	.navbar-default .navbar-brand {
 		color: #FFFFFF;
-		padding: 16px 15px !important;
+		padding: 1px 1px !important;
 	}
 	.navbar-default .navbar-brand.nav-white {
 		color: #FFFFFF;
@@ -411,8 +411,8 @@ p {
 
 .btn-action {
 	font-family: Open Sans;
-	background-color: #1eb858;
-	border: 1px solid #1eb858;
+	background-color: #f39b9e;
+	border: 1px solid #f39b9e;
 	border-radius: 0;
 	color: #FFFFFF;
 	font-size: 13px;
@@ -431,9 +431,9 @@ p {
 .btn-action:hover, .btn-action:focus, .btn-action:active, .btn-action:active:focus {
 	background: transparent;
 	outline: none;
-	color: #1eb858;
+	color: #f39b9e;
 	background: transparent;
-	border-color: #1eb858;
+	border-color: #f39b9e;
 }
 
 .product .btn-action {
@@ -540,8 +540,8 @@ p {
 	border-radius: 0 5px 5px 0;
 	margin: 0;
 	padding: 0 25px 0 25px;
-	border-color: #1eb858;
-	background-color: #1eb858;
+	border-color: #f39b9e;
+	background-color: #f39b9e;
 	color: #FFFFFF;
 	box-shadow: 0 0 1px transparent;
 	outline: none;
@@ -559,15 +559,15 @@ p {
 }
 
 .form .btn-action {
-	background: #1eb858;
-	border-color: #1eb858;
+	background: #f39b9e;
+	border-color: #f39b9e;
 	color: #FFFFFF;
 }
 
 .form .btn-action:hover {
 	background: transparent;
-	border-color: #1eb858;
-	color: #1eb858;
+	border-color: #f39b9e;
+	color: #f39b9e;
 }
 
 /*-----------------------------------------------------
@@ -615,7 +615,7 @@ p {
 
 .signup-form {
 	padding: 25px 25px 30px 25px;
-	background: #1eb858;
+	background: #f39b9e;
 	-moz-border-radius: 0 0 4px 4px;
 	-webkit-border-radius: 0 0 4px 4px;
 	border-radius: 0 0 4px 4px;
@@ -653,33 +653,33 @@ p {
 }
 
 .signup .btn-action.btn-round {
-	background: #1eb858;
-	border-color: #1eb858;
+	background: #f39b9e;
+	border-color: #f39b9e;
 	color: #FFFFFF;
 	font-size: 15px;
 	padding: 12px 24px;
 	font-weight: 600;
 	text-transform: capitalize;
-	border: 2px solid #1eb858;
+	border: 2px solid #f39b9e;
 	border-radius: 30px;
 }
 
 .signup .btn-action.btn-round:hover, .signup .btn-action.btn-round:focus {
 	background: transparent;
-	color: #1eb858;
-	border-color: #1eb858;
+	color: #f39b9e;
+	border-color: #f39b9e;
 }
 
 .signup .btn-action {
-	background: #1eb858;
-	border-color: #1eb858;
+	background: #f39b9e;
+	border-color: #f39b9e;
 	color: #FFFFFF;
 }
 
 .signup .btn-action:hover {
 	background: transparent;
-	border-color: #1eb858;
-	color: #1eb858;
+	border-color: #f39b9e;
+	color: #f39b9e;
 }
 
 input[type="text"], textarea, textarea.form-control {
@@ -906,14 +906,14 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .app .btn-action {
 	color: #FFFFFF;
-	background: #1eb858;
-	border-color: #1eb858;
+	background: #f39b9e;
+	border-color: #f39b9e;
 }
 
 .app .btn-action:hover {
-	color: #1eb858;
+	color: #f39b9e;
 	background: transparent;
-	border-color: #1eb858;
+	border-color: #f39b9e;
 }
 
 /*----------------------------------------------------
@@ -1016,7 +1016,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 /* ----- Client Sectiion Styling ----- */
 
 .client-section {
-	background-color: #1eb858;
+	background-color: #f39b9e;
 	padding: 5px 0 0 0;
 }
 
@@ -1064,7 +1064,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .pitch-icon {
 	margin: 0 0 10px 0;
-	background: #1eb858;
+	background: #f39b9e;
 	width: 60px;
 	height: 60px;
 	display: inline-block;
@@ -1247,14 +1247,14 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .feature-sub .sub-inner .btn-action {
 	color: #FFFFFF;
-	background: #1eb858;
-	border-color: #1eb858;
+	background: #f39b9e;
+	border-color: #f39b9e;
 }
 
 .feature-sub .sub-inner .btn-action:hover {
-	color: #1eb858;
+	color: #f39b9e;
 	background: transparent;
-	border-color: #1eb858;
+	border-color: #f39b9e;
 }
 
 .feature-sub {
@@ -1326,7 +1326,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .app-features .icon i {
 	font-size: 72px;
-	color: #1eb858;
+	color: #f39b9e;
 }
 
 .app-features .feature-single {
@@ -1556,7 +1556,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .table-left .icon, .table-right .icon {
 	font-size: 60px;
 	margin: 0 auto;
-	color: #1eb858;
+	color: #f39b9e;
 }
 
 .table-left .pricing-details span, .table-right .pricing-details span {
@@ -1637,7 +1637,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .counter-icon i {
 	font-size: 48px;
-	color: #1eb858;
+	color: #f39b9e;
 }
 
 .counter-text {
@@ -1797,14 +1797,14 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .contact i {
 	font-size: 42px;
-	color: #1eb858;
+	color: #f39b9e;
 	text-align: left;
 }
 
 .contact h1 {
 	font-size: 21px;
 	font-weight: 400;
-	color: #1eb858;
+	color: #f39b9e;
 	margin: 10px 0 10px 0;
 	text-align: left;
 }
@@ -1821,7 +1821,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .contact a {
 	font-size: 18px;
 	font-weight: 400;
-	color: #1eb858;
+	color: #f39b9e;
 	text-decoration: none;
 	display: inline-block;
 }
@@ -1859,7 +1859,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .footer-text p {
 	font-family: "Open Sans";
 	font-size: 12px;
-	color: #1eb858;
+	color: #f39b9e;
 	font-weight: 400;
 	line-height: 1.4;
 	margin-top: 10px;
