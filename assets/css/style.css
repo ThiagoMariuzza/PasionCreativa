@@ -1,6 +1,5 @@
 @import url(animate.css);
 @import url(bootstrap.min.css);
-@import url(ionicons.min.css);
 @import url(owl.carousel.css);
 @import url(owl.theme.css);
 
@@ -1067,21 +1066,20 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .pitch-icon {
-	margin: 0 0 10px 0;
 	background: #f39b9e;
-	width: 60px;
-	height: 60px;
+	width: 5rem;
+	height: 5rem;
 	display: inline-block;
 	border-radius: 50%;
 }
 
 .pitch-icon i {
-	font-size: 34px;
+	font-size: 0.5rem;
 	color: #FFFFFF;
 	position: absolute;
 	left: 0;
 	right: 0;
-	top: 13px;
+	top: 1rem;
 }
 
 .pitch-content {
@@ -1870,7 +1868,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 ---------------------------------------------------------*/
 
 .back-to-top {
-	background: #f39b9e;
+	background: #f39b9e00;
 	margin: 0;
 	position: fixed;
 	bottom: 30px;
@@ -1897,8 +1895,8 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .back-to-top:hover {
-	background: #f39b9e;
-	color: #FFFFFF;
+	background: #f39b9e00;
+	color: #acacac;
 }
 
 .back-to-top:hover i {
