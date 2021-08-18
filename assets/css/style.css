@@ -1039,7 +1039,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .pitch {
 	padding: 100px 0 100px 0;
-	background: #F9F9F9;
+	background: #F3F3F3;
 }
 
 .pitch-intro {
@@ -1243,7 +1243,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .feature-sub {
 	margin: 0 0 0 0;
 	padding: 1rem 0 1rem 0;
-	background: #F3F3F3;
+	background: #F9F9F9;
 }
 
 .feature-sub h1{
@@ -1412,7 +1412,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .review-section {
 	padding: 150px 0 150px 0;
 	text-align: center;
-	background: #F4F4F4;
+	background: #F9F9F9;
 }
 
 .reviews {
