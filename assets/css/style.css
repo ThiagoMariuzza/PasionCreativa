@@ -1043,23 +1043,23 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .pitch-intro {
-	max-width: 600px;
-	margin: 0 auto;
-	padding: 0 0 100px 0;
+	max-width: 100rem;
+	margin: auto;
+	padding: 0 0 5rem 0;
 }
 
 .pitch-intro h1 {
 	font-size: 4rem;
-	font-weight: 900;
-	line-height: 1.2;
-	letter-spacing: -2px;
+	font-weight: 800;
+	line-height: 5;
+	letter-spacing: 0;
 	color: #454545;
-	margin: 0 0 30px 0;
+	margin: 0 0 0 0;
 }
 
 .pitch-intro p {
 	font-family: 'Dosis', sans-serif;
-	font-size: 2rem;
+	font-size: 3rem;
 	line-height: 1.5;
 	color: #222222;
 	letter-spacing: 0;
@@ -1368,8 +1368,9 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .split-content h1 {
 	font-size: 4rem;
-	font-weight: 900;
-	letter-spacing: -2px;
+	font-weight: 800;
+	line-height: 5;
+	letter-spacing: 0;
 	margin: 0 0 20px 0;
 }
 
@@ -1410,7 +1411,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 -----------------------------------------------------*/
 
 .review-section {
-	padding: 150px 0 150px 0;
+	padding: 4rem 0 10rem 0;
 	text-align: center;
 	background: #F9F9F9;
 }
@@ -1424,6 +1425,16 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	height: 80px;
 }
 
+.review-section h1{
+
+	font-size: 4rem;
+	font-weight: 800;
+	line-height: 4;
+	letter-spacing: 0;
+	color: #454545;
+	margin: 0 0 3rem 0;
+
+}
 .review-text h3 {
 	font-family: 'Dosis', sans-serif;
 	font-size: 2.8rem;
@@ -1433,7 +1444,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	color: #000000;
 }
 
-review-text h4 {
+.review-text h4 {
 	font-family: 'Dosis', sans-serif;
 	font-size: 2.5rem;
 	font-weight: 400;
@@ -1672,12 +1683,11 @@ review-text h4 {
 
 .cta-sub .cta-inner h1 {
 	font-size: 4rem;
+	font-weight: 800;
+	line-height: 5;
+	letter-spacing: 0;
 	color: #FFFFFF;
-	font-weight: 900;
-	line-height: 1.2;
-	margin-top: 10px;
-	margin-bottom: 0;
-	letter-spacing: -2px;
+	margin: 0;
 }
 
 .cta-sub .cta-inner p {
