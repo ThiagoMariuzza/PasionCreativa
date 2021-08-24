@@ -1561,13 +1561,13 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	border: transparent;
 	max-width: 400px;
 
-	-moz-border-radius: 50%;
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	-moz-border-radius: 5%;
+	-webkit-border-radius: 5%;
+	border-radius: 5%;
 }
 
 .table-left .icon, .table-right .icon {
-	padding: 50px 50px 40px 50px;
+	padding: 3rem 3rem 2rem 3rem;
 }
 
 .table-left .icon, .table-right .icon {
@@ -1583,10 +1583,11 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	font-weight: 700;
 	color: #808080;
 	margin-bottom: 20px;
+
 }
 
 .table-left .pricing-details h2, .table-right .pricing-details h2 {
-	font-size: 18px;
+	font-size: 2.5rem;
 	font-weight: 700;
 	color: #505050;
 	margin-bottom: 30px;
@@ -1604,15 +1605,22 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .table-left .pricing-details ul, .table-right .pricing-details ul {
 	margin-top: 30px;
 	margin-bottom: 50px;
+	
+	/*list-style-type: circle;*/
+	vertical-align: text-top;
+
 }
 
 .table-left .pricing-details li, .table-right .pricing-details li {
 	font-family: 'Dosis', sans-serif;
-	font-size: 2rem;
-	font-weight: 700;
+	font-size: 1.9rem;
+	font-weight: 600;
 	color: #505050;
 	line-height: 1.4;
 	margin-bottom: 10px;
+
+	text-align: left;
+
 }
 
 .pricing-section .table-left:hover, .pricing-section .table-right:hover {
