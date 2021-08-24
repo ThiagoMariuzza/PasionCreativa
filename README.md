@@ -1,1 +1,1 @@
-# The Deft Flamink Company
+# The Deft Flamink Company ®
