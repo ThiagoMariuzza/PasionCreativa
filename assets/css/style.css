@@ -1682,7 +1682,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 /* ----- CTA Section Styling Starts ----- */
 
 .cta-sub {
-	padding-top: 1rem;
+	padding: 3rem 0 3rem 0;
 	padding-bottom: 1rem;
 	background: #f39b9e;
 	background-size: cover;
