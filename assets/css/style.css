@@ -1020,11 +1020,12 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .client-section {
 	background-color: #f39b9e;
-	padding: 5px 0 0 0;
+	padding: 1rem 0 1rem 0;
+	color: #FFFFFF;
 }
 
 .clients .single {
-	padding: 25px 0 25px 0;
+	padding: 2rem 0 2rem 0;
 }
 
 .clients .single img {
