@@ -1028,9 +1028,9 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .clients .single img {
-	-webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	opacity: 0.6;
+	-webkit-filter: grayscale(1%);
+	filter: grayscale(1%);
+	opacity: 0.8;
 }
 
 /*----------------------------------------------------
