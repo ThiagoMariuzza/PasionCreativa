@@ -278,10 +278,10 @@
                             </div>
 
 
-                                
-                                <div class="col-md-12 wow fadeInDown" data-wow-delay="0.5s"> <img class="img-responsive"
+
+                            <div class="col-md-12 wow fadeInDown" data-wow-delay="0.5s"> <img class="img-responsive"
                                     src="images/iPhone-app.png" alt="App" /> </div>
-                                
+
 
 
 
@@ -548,8 +548,9 @@
                 <div class="container">
 
                     <div class="cta-inner">
-                        <div class="col-md-6 nopadding">
-                            <h1 class="wow fadeInUp" data-wow-delay="0s">Contáctanos</h1>
+                        <h1 class="wow fadeInUp" data-wow-delay="0s">Contáctanos</h1>
+
+                        <div class="col-md-6 nopadding align-self-center">
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Responderemos en las proximas 24 horas
                                 hábiles.</p>
 
@@ -581,54 +582,50 @@
 
                         </div>
 
-                        <div class="col-md-6 nopadding">
+                        <!-- CONTACT FORM-->
 
-                            <form action="contact.php" method="post" role="form" class="php-email-form">
+                        <div class="col-md-6 nopadding align-self-center form">
+                       
+                            <form action="contact.php" method="post" role="form">
+
                                 <div class="row">
-                                  <div class="col-md-6 form-group">
-                                    <p>Nombre:</p>
-                                    <input type="text" class="form-control" name="first_name" id="first_name"
-                                      placeholder="Ingresa tu Nombre" required>
-                                  </div>
-                    
-                                  <div class="col-md-6 form-group">
-                                    <p>Apellido:</p>
-                                    <input type="text" class="form-control" name="last_name" id="last_name"
-                                      placeholder="Ingresa tu Apellido" required>
-                                  </div>
-                    
-                                  <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <p>Telefono:</p>
-                                    <input type="phone" class="form-control" name="phone" id="phone" placeholder="Ingresa tu Telefono"
-                                      required>
-                                  </div>
-                    
-                                  <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <p>Email:</p>
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Ingresa tu Email">
-                                  </div>
-                    
+                                    <div class="col-md-6 form-group">
+                                        <input type="text" class="form-control" name="first_name" id="first_name"
+                                            placeholder="Ingresa tu Nombre" required>
+                                    </div>
+
+                                    <div class="col-md-6 form-group">
+                                        <input type="text" class="form-control" name="last_name" id="last_name"
+                                            placeholder="Ingresa tu Apellido" required>
+                                    </div>
+
+                                    <div class="col-md-6 form-group mt-3 mt-md-0">
+                                        <input type="phone" class="form-control" name="phone" id="phone"
+                                            placeholder="Ingresa tu Telefono" required>
+                                    </div>
+
+                                    <div class="col-md-6 form-group mt-3 mt-md-0">
+                                        <input type="email" class="form-control" name="email" id="email"
+                                            placeholder="Ingresa tu Email">
+                                    </div>
+
                                 </div>
-                    
+
                                 <!--
                                 <div class="form-group mt-3">
                                   <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
                                 </div>
                                 -->
-                    
+
                                 <div class="form-group mt-3">
-                                  <p>Consulta:</p>
-                                  <textarea class="form-control" name="description" id="description" rows="5"
-                                    placeholder="Ingresa tu consulta aqui" required></textarea>
+                                    <textarea class="form-control" name="description" id="description" rows="5"
+                                        placeholder="Ingresa tu consulta aqui" required></textarea>
                                 </div>
-                    
-                                <div class="my-3">
-                                  <div class="loading">Loading</div>
-                                  <div class="error-message"></div>
-                                  <div class="sent-message">Tu mensaje ha sido enviado, te contactaremos a la brevedad.</div>
+
+                                <div class="text-center">
+                                    <button class="btn" type="submit">Enviar</button>
                                 </div>
-                                <div class="text-center"><button type="submit">Enviar</button></div>
-                              </form>
+                            </form>
 
                             <!-- 
                             <div class="typeform-widget"
