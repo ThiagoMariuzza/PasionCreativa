@@ -594,6 +594,7 @@ p {
 
 /* ------------ Signup Hero Section ------------ */
 
+/*
 .signup .hero-section {
 	background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)), url(../images/app_bg.jpg) no-repeat center center;
 	background-size: cover;
@@ -684,7 +685,7 @@ p {
 	border-color: #f39b9e;
 	color: #f39b9e;
 }
-/*
+
 input[type="text"], textarea, textarea.form-control {
 	height: 45px;
 	margin: 0;
