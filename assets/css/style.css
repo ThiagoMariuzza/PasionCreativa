@@ -1315,8 +1315,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .app-features .icon {
-	margin-top: 10px;
-	margin-bottom: 20px;
+	margin: 0;
 }
 
 .app-features .icon i {
