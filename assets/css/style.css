@@ -1292,6 +1292,15 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	padding: 3rem 0 3rem 0;
 }
 
+.title {
+	font-size: 4rem;
+    font-weight: 800;
+    line-height: 5;
+    letter-spacing: 0;
+    color: #454545;
+    margin: 0;
+}
+
 .app-features h1 {
 	font-size: 4rem;
 	font-weight: 900;
@@ -1311,7 +1320,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .app-features .features-left, .app-features .features-right {
-	padding: 50px 0 0 0;
+	padding: 0;
 }
 
 .app-features .icon {
@@ -1331,7 +1340,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .app-features .feature-single h1 {
 	font-size: 3rem;
 	font-weight: 700;
-	color: #222222;
+	color: #3c3c3c;
 	margin: 0 0 10px 0;
 	letter-spacing: 1px;
 	text-transform: uppercase;
